@@ -3,3 +3,46 @@ testing
 pull
 github
 hello i am adding this line
+hello
+this is ghousse
+adding file
+print("ghouse basha shaik")
+print("o----")
+print("llll")
+print("*" * 10)
+price = 10
+print(price)
+
+
+varaibles
+---------
+name = 'Ghouse'
+age = 20
+rating = 4.9
+price = 30
+is_publisehed = True
+
+name = input('what is your name? ')
+print('hi ' + name)
+
+name = input('what is your name? ')
+colour = input('what is your fav colour? ')
+print('likes ' + name + colour)
+
+jenkins
+
+yum install -y wget  
+wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat/jenkins.repo  
+rpm --import https://pkg.jenkins.io/redhat/jenkins.io.key  
+yum install jenkins  java-1.8.0-openjdk-devel git -y  
+systemctl enable jenkins && systemctl restart jenkins  
+
+python notes
+----------------------
+
+print("ghouse basha shaik")
+print("o----")
+print("llll")
+print("*" * 10)
+price = 10
+print(price)
