@@ -6,4 +6,4 @@ git add .
 
 write few git commands
 
-lit few git commands
+list few git commands
